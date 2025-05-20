@@ -66,13 +66,13 @@
 
 import React, { useState } from "react";
 
-import dragon_red from "../assets/dragon_red.PNG";
-import dragon_violet from "../assets/dragon_violet.PNG";
-import dragon_blue from "../assets/dragon_blue.PNG";
-import dragon_brown from "../assets/dragon_brown.PNG";
-import dragon_green from "../assets/dragon_green.PNG";
-import dragon_orange from "../assets/dragon_orange.PNG";
-import dragon_white from "../assets/dragon_white.PNG";
+import dragon_red from "../assets/dragon_red.png";
+import dragon_violet from "../assets/dragon_violet.png";
+import dragon_blue from "../assets/dragon_blue.png";
+import dragon_brown from "../assets/dragon_brown.png";
+import dragon_green from "../assets/dragon_green.png";
+import dragon_orange from "../assets/dragon_orange.png";
+import dragon_white from "../assets/dragon_white.png";
 
 const mascots = [
   { name: "Red", src: dragon_red },
