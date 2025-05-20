@@ -34,7 +34,7 @@
 // }
 
 
-import React from "react";
+
 
 const availableModules = ["sniper", "bundle", "tracker", "booster"];
 

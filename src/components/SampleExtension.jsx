@@ -1,6 +1,6 @@
 
-import github from "../assets/github.PNG"
-import wolf from "../assets/wolf.PNG"
+import github from "../assets/github.png"
+import wolf from "../assets/wolf.png"
 
 export default function SampleExtension({ outerColor, innerColor, mascotImage }) {
   return (
